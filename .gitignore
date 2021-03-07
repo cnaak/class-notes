@@ -1,4 +1,6 @@
 ## Output xopp files
+*.xopp
+*.xopp~
 *.pdf
 
 ## Core latex/pdflatex auxiliary files:
