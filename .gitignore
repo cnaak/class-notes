@@ -1,6 +1,5 @@
 ## Output xopp files
 *.pdf
-*.xml
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
