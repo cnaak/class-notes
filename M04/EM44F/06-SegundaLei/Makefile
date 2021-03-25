@@ -32,8 +32,8 @@ www/%.pdf: www/%.svg
 		--export-filename=$@ \
 		$<
 
-wwwEXT = jpg short
-wwwFIG = 01-gasTurbineEngine
+wwwEXT = jpg
+wwwFIG = 02-disk-brake
 
 NULL: $(foreach EXT,$(wwwEXT), $(foreach BAS,$(wwwFIG),www/$(BAS).$(EXT)))
 	touch NULL
