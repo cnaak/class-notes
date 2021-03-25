@@ -33,7 +33,8 @@ www/%.pdf: www/%.svg
 		$<
 
 wwwEXT = jpg
-wwwFIG = 02-disk-brake
+wwwFIG = 02-disk-brake \
+		 03-resistencia
 
 NULL: $(foreach EXT,$(wwwEXT), $(foreach BAS,$(wwwFIG),www/$(BAS).$(EXT)))
 	touch NULL
