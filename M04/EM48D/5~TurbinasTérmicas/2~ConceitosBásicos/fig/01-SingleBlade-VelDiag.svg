@@ -239,11 +239,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3645651"
-     inkscape:cx="210.89594"
-     inkscape:cy="345.25116"
+     inkscape:zoom="4.7291301"
+     inkscape:cx="259.62594"
+     inkscape:cy="112.86731"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2848"
      showgrid="true"
      units="px"
      inkscape:window-width="1920"
@@ -301,33 +301,33 @@
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker2210);stop-color:#000000;stop-opacity:1"
          d="m 260,120 40,80"
          id="path1752"
-         transform="translate(30,238.24998)" />
+         transform="translate(31.49956,238.24998)" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker2220);stop-color:#000000;stop-opacity:1"
-         d="m 260,120 120,80"
+         d="m 260,120 140,80"
          id="path1806"
-         transform="translate(30,238.24998)"
+         transform="translate(31.49956,238.24998)"
          sodipodi:nodetypes="cc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#808080;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker2158);stop-color:#000000;stop-opacity:1"
-         d="m 260,120 h 80"
+         d="M 260,120 H 360"
          id="path1858"
-         transform="translate(70,318.24998)"
+         transform="translate(71.49956,318.24998)"
          sodipodi:nodetypes="cc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker2418);stop-color:#000000;stop-opacity:1"
          d="m 290,120 v 80"
          id="path2408"
-         transform="translate(0,238.24998)" />
+         transform="translate(1.49956,238.24998)" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker2502);stop-color:#000000;stop-opacity:1"
          d="m 290,120 h 40"
          id="path2498"
-         transform="translate(0,318.24998)"
+         transform="translate(1.49956,318.24998)"
          sodipodi:nodetypes="cc" />
       <g
          id="g2644"
-         transform="translate(-30.83089,35.028914)">
+         transform="translate(-19.33133,35.028914)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -369,7 +369,7 @@
       </g>
       <g
          id="g2686"
-         transform="translate(-23.189322,102.05002)"
+         transform="translate(-11.689762,102.05002)"
          style="fill:#808080">
         <text
            xml:space="preserve"
@@ -412,7 +412,7 @@
       </g>
       <g
          id="g2720"
-         transform="translate(-64.283237,51.028914)">
+         transform="translate(-62.783677,51.028914)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -458,7 +458,7 @@
          x="350"
          y="120"
          id="text2746"
-         transform="translate(-77.495241,282.53738)"><tspan
+         transform="translate(-75.995681,282.53738)"><tspan
            sodipodi:role="line"
            id="tspan2744"
            x="350"
@@ -472,7 +472,7 @@
          x="350"
          y="120"
          id="text2775"
-         transform="translate(-39.899023,335.83725)"><tspan
+         transform="translate(-38.399463,335.83725)"><tspan
            sodipodi:role="line"
            id="tspan2773"
            x="350"
@@ -486,9 +486,10 @@
        transform="translate(-90,220)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker3044);stop-color:#000000;stop-opacity:1"
-         d="m 260,120 40,80"
+         d="m 260,120 -80,80"
          id="path2970"
-         transform="translate(30,238.24998)" />
+         transform="translate(30,238.24998)"
+         sodipodi:nodetypes="cc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker3054);stop-color:#000000;stop-opacity:1"
          d="m 260,120 120,80"
@@ -499,7 +500,7 @@
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#808080;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker3064);stop-color:#000000;stop-opacity:1"
          d="m 260,120 h 80"
          id="path2974"
-         transform="translate(70,318.24998)"
+         transform="translate(-50,318.24998)"
          sodipodi:nodetypes="cc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker3074);stop-color:#000000;stop-opacity:1"
@@ -508,7 +509,7 @@
          transform="translate(0,238.24998)" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#marker3084);stop-color:#000000;stop-opacity:1"
-         d="m 290,120 h 40"
+         d="m 290,120 -80,0"
          id="path2978"
          transform="translate(0,318.24998)"
          sodipodi:nodetypes="cc" />
@@ -552,54 +553,11 @@
              y="120"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">ξ<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan2988">V1</tspan></tspan></text>
-      </g>
-      <g
-         id="g3010"
-         transform="translate(-23.189322,102.05002)"
-         style="fill:#808080">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-           x="400"
-           y="140"
-           id="text2998"
-           transform="translate(-11.982658,222.87043)"><tspan
-             sodipodi:role="line"
-             id="tspan2996"
-             x="400"
-             y="140"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#808080">~</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-weight:900;font-stretch:condensed;font-size:14.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Condensed';text-align:center;text-anchor:middle;fill:#808080;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-           x="350"
-           y="120"
-           id="text3002"
-           transform="translate(37.68068,233.78723)"><tspan
-             sodipodi:role="line"
-             id="tspan3000"
-             x="350"
-             y="120"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#808080;fill-opacity:1;stroke:none;stroke-opacity:1">ξ</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-weight:900;font-stretch:condensed;font-size:14.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Condensed';text-align:center;text-anchor:middle;fill:#808080;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-           x="350"
-           y="120"
-           id="text3008"
-           transform="translate(43.601787,233.78723)"><tspan
-             sodipodi:role="line"
-             id="tspan3006"
-             x="350"
-             y="120"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#808080;fill-opacity:1;stroke:none;stroke-opacity:1">ξ<tspan
-   style="font-size:65%;baseline-shift:sub;fill:#808080"
-   id="tspan3004">U1</tspan></tspan></text>
+   id="tspan2988">V2</tspan></tspan></text>
       </g>
       <g
          id="g3026"
-         transform="translate(-64.283237,51.028914)">
+         transform="translate(-158.41358,35.028914)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -637,7 +595,7 @@
              y="120"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">ξ<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan3020">W1</tspan></tspan></text>
+   id="tspan3020">W2</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -652,21 +610,68 @@
            y="120"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#008000;fill-opacity:1;stroke:none;stroke-opacity:1">ξ<tspan
    style="font-size:65%;baseline-shift:sub;fill:#008000"
-   id="tspan3028">Wx1</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:900;font-stretch:condensed;font-size:14.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Condensed';text-align:center;text-anchor:middle;fill:#008000;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         x="350"
-         y="120"
-         id="text3038"
-         transform="translate(-39.899023,335.83725)"><tspan
-           sodipodi:role="line"
-           id="tspan3036"
+   id="tspan3028">Wx2</tspan></tspan></text>
+      <g
+         id="g3373"
+         transform="translate(-5.7004428)">
+        <g
+           id="g3010"
+           transform="translate(-123.15101,102.05002)"
+           style="fill:#808080">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             x="400"
+             y="140"
+             id="text2998"
+             transform="translate(-11.982658,222.87043)"><tspan
+               sodipodi:role="line"
+               id="tspan2996"
+               x="400"
+               y="140"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#808080">~</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:900;font-stretch:condensed;font-size:14.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Condensed';text-align:center;text-anchor:middle;fill:#808080;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+             x="350"
+             y="120"
+             id="text3002"
+             transform="translate(37.68068,233.78723)"><tspan
+               sodipodi:role="line"
+               id="tspan3000"
+               x="350"
+               y="120"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#808080;fill-opacity:1;stroke:none;stroke-opacity:1">ξ</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:900;font-stretch:condensed;font-size:14.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Condensed';text-align:center;text-anchor:middle;fill:#808080;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+             x="350"
+             y="120"
+             id="text3008"
+             transform="translate(43.601787,233.78723)"><tspan
+               sodipodi:role="line"
+               id="tspan3006"
+               x="350"
+               y="120"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#808080;fill-opacity:1;stroke:none;stroke-opacity:1">ξ<tspan
+   style="font-size:65%;baseline-shift:sub;fill:#808080"
+   id="tspan3004">U2</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-weight:900;font-stretch:condensed;font-size:14.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Condensed';text-align:center;text-anchor:middle;fill:#008000;stroke:#008000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
            x="350"
            y="120"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#008000;fill-opacity:1;stroke:none;stroke-opacity:1">ξ<tspan
+           id="text3038"
+           transform="translate(-106.02936,335.83725)"><tspan
+             sodipodi:role="line"
+             id="tspan3036"
+             x="350"
+             y="120"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit';fill:#008000;fill-opacity:1;stroke:none;stroke-opacity:1">ξ<tspan
    style="font-size:65%;baseline-shift:sub;fill:#008000"
-   id="tspan3034">Wθ1</tspan></tspan></text>
+   id="tspan3034">Wθ2</tspan></tspan></text>
+      </g>
     </g>
   </g>
 </svg>
