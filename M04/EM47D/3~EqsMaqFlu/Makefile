@@ -1,25 +1,25 @@
-www/%.jpg: www/%.url
+www/%.jpg: www/%.jpg.url
 	wget \
 		--input-file=$< \
 		--output-document=$@ \
 		--user-agent="Mozilla/5.0 (X11; Linux x86_64)"
 	touch $@
 
-www/%.jpeg: www/%.url
+www/%.jpeg: www/%.jpeg.url
 	wget \
 		--input-file=$< \
 		--output-document=$@ \
 		--user-agent="Mozilla/5.0 (X11; Linux x86_64)"
 	touch $@
 
-www/%.png: www/%.url
+www/%.png: www/%.png.url
 	wget \
 		--input-file=$< \
 		--output-document=$@ \
 		--user-agent="Mozilla/5.0 (X11; Linux x86_64)"
 	touch $@
 
-www/%.svg: www/%.url
+www/%.svg: www/%.svg.url
 	wget \
 		--input-file=$< \
 		--output-document=$@ \
