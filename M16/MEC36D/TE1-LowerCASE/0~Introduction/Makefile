@@ -1,24 +1,24 @@
 PREF=LowerCaseIntro
 
-%.png: %.png.url
+fig/%.png: fig/%.png.url
 	wget \
 		--input-file=$< \
 		--output-document=$@
 	touch $@
 
-%.jpg: %.jpg.url
+fig/%.jpg: fig/%.jpg.url
 	wget \
 		--input-file=$< \
 		--output-document=$@
 	touch $@
 
-%.csv: %.csv.url
+src/%.csv: src/%.csv.url
 	wget \
 		--input-file=$< \
 		--output-document=$@
 	touch $@
 
-%.jl: %.jl.url
+src/%.jl: src/%.jl.url
 	wget \
 		--input-file=$< \
 		--output-document=$@
@@ -27,6 +27,6 @@ PREF=LowerCaseIntro
 ${PREF}.pdf: ${PREF}.typ
 	typst c ${PREF}.typ
 	pdftoppm -png -f 1 -l 1 -r 90 ${PREF}.pdf ${PREF}-thumb
-	mv ${PREF}-thumb-[0-9].png ${PREF}-thumb.png
+	mv ${PREF}-thumb-[0-9].png thumb/${PREF}-thumb.png
 
 
