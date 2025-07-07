@@ -1,5 +1,8 @@
 PREF=LowerCaseIntro
 
+this.bib: bib/*bib
+	cat bib/*bib > this.bib
+
 fig/%.png: fig/%.png.url
 	wget \
 		--input-file=$< \
@@ -27,6 +30,6 @@ src/%.jl: src/%.jl.url
 ${PREF}.pdf: ${PREF}.typ
 	typst c ${PREF}.typ
 	pdftoppm -png -f 1 -l 1 -r 90 ${PREF}.pdf ${PREF}-thumb
-	mv ${PREF}-thumb-[0-9].png thumb/${PREF}-thumb.png
+	mv ${PREF}-thumb-+([0-9]).png thumb/${PREF}-thumb.png
 
 
