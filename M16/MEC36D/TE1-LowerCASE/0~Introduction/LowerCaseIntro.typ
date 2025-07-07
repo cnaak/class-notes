@@ -24,42 +24,6 @@
   theme: "full",
 )
 
-#let bibCont = "
-@misc{jones_case_2002,
-  title = {Case {Tools} - {Aids} for {Systems} {Development}},
-  url = {https://www.umsl.edu/~sauterv/analysis/488_f02_papers/CASE.html},
-  urldate = {2025-07-06},
-  journal = {CASE Tool Time},
-  author = {Jones, Walt},
-  year = {2002},
-}
-
-@misc{point_case_2014,
-  title = {Case {Tools} {Overview}},
-  url = {https://www.tutorialspoint.com/software_engineering/case_tools_overview.htm},
-  urldate = {2025-07-06},
-  journal = {Software Engineering Tutorial},
-  author = {Point, Tutorials},
-  year = {2014},
-}
-
-@article{dias_evolvement_2017,
-  title = {Evolvement of {Computer} {Aided} {Software} {Engineering} ({CASE}) {Tools}: {A} {User} {Experience}},
-  volume = {6},
-  issn = {2409-4285},
-  shorttitle = {Evolvement of {Computer} {Aided} {Software} {Engineering} ({CASE}) {Tools}},
-  url = {https://www.researchgate.net/publication/315808988_Evolvement_of_Computer_Aided_Software_Engineering_CASE_Tools_A_User_Experience},
-  language = {en},
-  number = {3},
-  urldate = {2025-07-06},
-  journal = {International Journal of Computer Science and Software Engineering},
-  author = {Dias, Kapila Asanga},
-  month = mar,
-  year = {2017},
-  pages = {55--60},
-}
-"
-
 == Definition
 
 #myFmt(
@@ -80,7 +44,7 @@
 #myFmt(
   figure(
     image(
-      "CASEtools.png",
+      "fig/CASEtools.png",
       height: 90%,
     ),
     caption: [Source: Tutorialspoint @point_case_2014],
@@ -94,11 +58,21 @@
     We'll be interested in the Lower part of CASE tools, specifically on open-source ones,
     rather than the costly @dias_evolvement_2017 proprietary ones, namely:
 
-    - `POSIX`-compliant shell (`bash`) for env and atomic automations;
-    - Version control system (`git`) for code control;
-    - `PkgTemplates.jl` for templating new packages;
-    - `Test` (Julia's `stdlib`) for unit tests;
-    - Some literate programming tools for documentation.
+    - `POSIX`-compliant shell (`bash`) @ramey_bash_2025 for env and atomic automations;
+    - Version control system (`git`) @torvalds_github_2025 @chacon_pro_2025 for code control;
+    - `PkgTemplates.jl` @de_graaf_juliacipkgtemplatesjl_2025 for templating new packages;
+    - `Test` @julialang_juliastdlibtest_nodate (Julia's @bezanson_julia_2025 `stdlib`) for unit tests;
+    - Some literate @ekre_fredrikekreliteratejl_2024 programming tools for documentation
+      @piibeleht_juliadocsdocumenterjl_2025.
+  ]
+)
+#pagebreak()
+
+#myFmt(
+  info(title: "Lower CASE Overview", width: 90%)[
+    - Not quite _Software Engineering_;
+    - Rather some _Software Carpentry_!
+    - Known for significantly improving Eng/Sci in-house software!
   ]
 )
 
@@ -130,8 +104,7 @@
 
 == Sources / Reading Material
 
-#v(12pt)
-#bibliography(bytes(bibCont), style: "institute-of-electrical-and-electronics-engineers")
+#bibliography("this.bib", style: "institute-of-electrical-and-electronics-engineers")
 
 /*
 == Note on AI Usage
